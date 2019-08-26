@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Week6_hotel_reservation/static/css/main.498d002a.chunk.css",
+    "main.js": "/Week6_hotel_reservation/static/js/main.fe99f17a.chunk.js",
+    "main.js.map": "/Week6_hotel_reservation/static/js/main.fe99f17a.chunk.js.map",
+    "runtime~main.js": "/Week6_hotel_reservation/static/js/runtime~main.c65cd6a4.js",
+    "runtime~main.js.map": "/Week6_hotel_reservation/static/js/runtime~main.c65cd6a4.js.map",
+    "static/js/2.2f529f07.chunk.js": "/Week6_hotel_reservation/static/js/2.2f529f07.chunk.js",
+    "static/js/2.2f529f07.chunk.js.map": "/Week6_hotel_reservation/static/js/2.2f529f07.chunk.js.map",
+    "index.html": "/Week6_hotel_reservation/index.html",
+    "precache-manifest.ec5a988559a083e01b23f5ce082c2a8b.js": "/Week6_hotel_reservation/precache-manifest.ec5a988559a083e01b23f5ce082c2a8b.js",
+    "service-worker.js": "/Week6_hotel_reservation/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/Week6_hotel_reservation/static/css/main.498d002a.chunk.css.map",
+    "static/media/envelope-solid.svg": "/Week6_hotel_reservation/static/media/envelope-solid.a1b1533c.svg",
+    "static/media/facebook-square-brands.svg": "/Week6_hotel_reservation/static/media/facebook-square-brands.7df7570f.svg",
+    "static/media/home-solid.svg": "/Week6_hotel_reservation/static/media/home-solid.1600889c.svg",
+    "static/media/instagram-brands.svg": "/Week6_hotel_reservation/static/media/instagram-brands.cc5e92b0.svg",
+    "static/media/phone-alt-solid.svg": "/Week6_hotel_reservation/static/media/phone-alt-solid.6dbf65e5.svg"
+  }
+}
